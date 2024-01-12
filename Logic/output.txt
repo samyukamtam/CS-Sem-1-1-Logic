@@ -1,0 +1,12 @@
+1.
+Part A output: (p1^p2^p4>p1)^(p2^p3>p1)^(p1^p4>p4)
+Part B output: The given horn formula is satisfiable
+Part C output: F F F F
+2.
+Part A output: (T>p1)^(T>p2)^(p3>F)^(p4^p1^p2>F)^(p5>p2)^(T>p6)^(p6>p4)
+Part B output: The given horn formula is not satisfiable
+Part C output: The given horn formula is not satisfiable
+3.
+Part A output: (T>p1)^(T>p2)^(p3>F)^(p4^p1^p2>p5)^(p5>p2)^(T>p6)^(p6>p4)
+Part B output: The given horn formula is satisfiable
+Part C output: T T F T T T
